@@ -1,7 +1,7 @@
 import mechanize, sys
 
 
-link = 'https://docs.google.com/forms/d/e/1FAIpQLSdtnifYlWgQNwg-LyrHZj1XVx28qPb2o2zZiReox5MV2myKqw/formResponse'
+link = ''
 rsp = ['x', 'x']
 
 
